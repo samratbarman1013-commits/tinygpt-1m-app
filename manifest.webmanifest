@@ -1,0 +1,16 @@
+{
+  "name": "TinyGPT-1M",
+  "short_name": "TinyGPT",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0e0b08",
+  "theme_color": "#0e0b08",
+  "description": "A 1M-parameter GPT transformer trained from scratch, running entirely on-device.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
